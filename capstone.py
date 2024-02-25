@@ -25,10 +25,10 @@ st.image(image_1)
 st.markdown(""" Berdasarkan hasil analisis didapatkan hasil 20 negara dengan jumlah serangan terbanyak dan yang berada diposisi pertama adalah irak""")
 
 
-image_2=Image.open(r"C:\Users\hp\.vscode\capstone\Screenshot_(841)-transformed.png") 
+image_2=Image.open("Screenshot_(841)-transformed.png") 
 st.image(image_2)
 
-image_3=Image.open(r"C:\Users\hp\.vscode\capstone\Screenshot_(849)-transformed.png") 
+image_3=Image.open("Screenshot_(849)-transformed.png") 
 st.image(image_3)
 st.markdown(""" 
 Tahun 2014 diwarnai dengan 16.071 serangan teror  yang merenggut
